@@ -35,9 +35,10 @@ Tools
 ---
 
 ## Projects
-- [Flutter E-Commerce App](#) — full‑stack mobile app with auth, cart, and profile management. (placeholder link)
-- [React To‑Do App](#) — frontend fundamentals project demonstrating components, state, and controlled inputs. (placeholder link)
-- [Coffee Shop Landing Page](#) — static site built with HTML/CSS. (placeholder link)
+- [Flutter E-Commerce App](https://github.com/dugo-codes/ecommerce_app) — full‑stack mobile app with auth, cart, and profile management. (placeholder link)
+- [Flutter Weather App](https://github.com/dugo-codes/weather_app) — mobile weather app built with Flutter.
+- [Express API](https://github.com/dugo-codes/first_api) — RESTful API built with Express and Node.js.
+- [Coffee Shop Landing Page](https://github.com/dugo-codes/bestcoffee) — static site built with HTML/CSS.
 
 ---
 
@@ -49,7 +50,7 @@ Tools
 
 ## Reach Me
 - LinkedIn: [your-profile](https://www.linkedin.com/in/your-linkedin)  
-- Email: [your-email@example.com](mailto:your-email@example.com) ✉️
+- Email: [dedefodugomsa@gmail.com](mailto:dedefodugomsa@gmail.com) ✉️
 
 ---
 Thanks for visiting — feel free to reach out for collaboration or questions about the stack above.
