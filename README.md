@@ -1,4 +1,4 @@
-# Hi, I'm Dugo 👋
+# Hi, I'm Dugomsa 👋
 Full‑stack web developer (JavaScript / React / Node.js) who also builds with Flutter — based in Ethiopia.
 
 ---
