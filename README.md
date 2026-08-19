@@ -49,7 +49,11 @@ Tools
 ---
 
 ## Reach Me
-- LinkedIn: [your-profile](https://www.linkedin.com/in/your-linkedin)  
+- LinkedIn: [www.linkedin.com/in/dugomsadedefo
+
+](https://www.linkedin.com/in/dugomsadedefo
+
+)  
 - Email: [dedefodugomsa@gmail.com](mailto:dedefodugomsa@gmail.com) ✉️
 
 ---
